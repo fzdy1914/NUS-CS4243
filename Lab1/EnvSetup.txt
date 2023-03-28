@@ -1,0 +1,12 @@
+Win10 with Anaconda Prompt:
+>create -n CS4243 python=3.5.4
+>activate CS4243
+(CS4243) > pip install -r requirements.txt
+(CS4243) > jupyter notebook
+
+
+Mac or Ubuntu:
+>conda create -n CS4243 python=3.5.4
+>conda activate CS4243
+(CS4243) > pip install -r requirements.txt
+(CS4243) > jupyter notebook
